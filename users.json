@@ -1,7 +1,8 @@
 {
   "users": {
     "owners": [
-      "SUPERADMIN_QUH4JGPGUS_MQCQXIPI"
+      "SUPERADMIN_QUH4JGPGUS_MQCQXIPI",
+      "KEY_MQCTS5KC_L4A1TRBX"
     ],
     "partners": [
       "KEY_MQCSPFZM_QCK3C6X3"
@@ -33,7 +34,8 @@
     "KEY_MQCSPFZM_QCK3C6X3": 30,
     "KEY_MQCT471K_TCWAYJTN": 10,
     "KEY_MQCTQRFD_DQKPVIAT": 10,
-    "KEY_MQCTS2YC_H60B4KBI": 1
+    "KEY_MQCTS2YC_H60B4KBI": 1,
+    "KEY_MQCTS5KC_L4A1TRBX": 20
   },
   "usernames": {
     "2076952351": "NamzOfficial",
