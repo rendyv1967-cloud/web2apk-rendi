@@ -1,6 +1,9 @@
 {
   "users": {
-    "owners": [],
+    "owners": [
+      "SUPERADMIN_QUH4JGPGUS_MQCQXIPI",
+      "KEY_MQCVN4M2_1EUQVZ7N"
+    ],
     "partners": [],
     "resellers": [],
     "members": []
@@ -24,7 +27,8 @@
     "KEY_MQCTS2YC_H60B4KBI": 1,
     "KEY_MQCTS5KC_L4A1TRBX": 20,
     "KEY_MQCUTBS7_JMFPKLVC": 10,
-    "KEY_MQCUZ1M6_VL6MAIWG": 1
+    "KEY_MQCUZ1M6_VL6MAIWG": 1,
+    "KEY_MQCVN4M2_1EUQVZ7N": 20
   },
   "usernames": {
     "2076952351": "NamzOfficial",
