@@ -9,7 +9,8 @@
     ],
     "resellers": [
       "KEY_MQCT471K_TCWAYJTN",
-      "KEY_MQCTQRFD_DQKPVIAT"
+      "KEY_MQCTQRFD_DQKPVIAT",
+      "KEY_MQCUTBS7_JMFPKLVC"
     ],
     "members": [
       "KEY_MQCSFXLJ_3ANKBGNB",
@@ -35,7 +36,8 @@
     "KEY_MQCT471K_TCWAYJTN": 10,
     "KEY_MQCTQRFD_DQKPVIAT": 10,
     "KEY_MQCTS2YC_H60B4KBI": 1,
-    "KEY_MQCTS5KC_L4A1TRBX": 20
+    "KEY_MQCTS5KC_L4A1TRBX": 20,
+    "KEY_MQCUTBS7_JMFPKLVC": 10
   },
   "usernames": {
     "2076952351": "NamzOfficial",
