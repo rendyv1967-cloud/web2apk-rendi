@@ -5,7 +5,9 @@
     ],
     "partners": [],
     "resellers": [],
-    "members": []
+    "members": [
+      "KEY_MQCSFXLJ_3ANKBGNB"
+    ]
   },
   "credits": {
     "2076952351": 0,
@@ -16,7 +18,8 @@
     "8704504715": 0,
     "8275653450": 1,
     "8410166791": 3,
-    "7110285243": 20
+    "7110285243": 20,
+    "KEY_MQCSFXLJ_3ANKBGNB": 1
   },
   "usernames": {
     "2076952351": "NamzOfficial",
