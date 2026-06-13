@@ -6,7 +6,9 @@
     "partners": [
       "KEY_MQCSPFZM_QCK3C6X3"
     ],
-    "resellers": [],
+    "resellers": [
+      "KEY_MQCT471K_TCWAYJTN"
+    ],
     "members": [
       "KEY_MQCSFXLJ_3ANKBGNB",
       "KEY_MQCSG2BP_DSGMHGW9",
@@ -26,7 +28,8 @@
     "KEY_MQCSFXLJ_3ANKBGNB": 1,
     "KEY_MQCSG2BP_DSGMHGW9": 1,
     "KEY_MQCSGAFM_2GHS3NY9": 1,
-    "KEY_MQCSPFZM_QCK3C6X3": 30
+    "KEY_MQCSPFZM_QCK3C6X3": 30,
+    "KEY_MQCT471K_TCWAYJTN": 10
   },
   "usernames": {
     "2076952351": "NamzOfficial",
