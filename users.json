@@ -3,7 +3,9 @@
     "owners": [
       "SUPERADMIN_QUH4JGPGUS_MQCQXIPI"
     ],
-    "partners": [],
+    "partners": [
+      "KEY_MQCSPFZM_QCK3C6X3"
+    ],
     "resellers": [],
     "members": [
       "KEY_MQCSFXLJ_3ANKBGNB",
@@ -23,7 +25,8 @@
     "7110285243": 20,
     "KEY_MQCSFXLJ_3ANKBGNB": 1,
     "KEY_MQCSG2BP_DSGMHGW9": 1,
-    "KEY_MQCSGAFM_2GHS3NY9": 1
+    "KEY_MQCSGAFM_2GHS3NY9": 1,
+    "KEY_MQCSPFZM_QCK3C6X3": 30
   },
   "usernames": {
     "2076952351": "NamzOfficial",
