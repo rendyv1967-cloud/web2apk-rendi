@@ -4,7 +4,9 @@
       "SUPERADMIN_QUH4JGPGUS_MQCQXIPI"
     ],
     "partners": [],
-    "resellers": [],
+    "resellers": [
+      "KEY_MQDDZWZM_33S5CABC"
+    ],
     "members": []
   },
   "credits": {
@@ -31,7 +33,8 @@
     "KEY_MQCVZ8RO_SL3RW701": 30,
     "KEY_MQDDDP0Z_WR95LTYS": 10,
     "KEY_MQDDM7RQ_E9NQRGC7": 10,
-    "KEY_MQDDQD74_GSR3042E": 20
+    "KEY_MQDDQD74_GSR3042E": 20,
+    "KEY_MQDDZWZM_33S5CABC": 10
   },
   "usernames": {
     "2076952351": "NamzOfficial",
