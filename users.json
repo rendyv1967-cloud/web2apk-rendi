@@ -5,7 +5,8 @@
     ],
     "partners": [],
     "resellers": [
-      "KEY_MQDDZWZM_33S5CABC"
+      "KEY_MQDDZWZM_33S5CABC",
+      "KEY_MQDE4IL3_AQHFXHEK"
     ],
     "members": [
       "KEY_MQDE2K8U_3W1WG6WI"
@@ -37,7 +38,8 @@
     "KEY_MQDDM7RQ_E9NQRGC7": 10,
     "KEY_MQDDQD74_GSR3042E": 20,
     "KEY_MQDDZWZM_33S5CABC": 10,
-    "KEY_MQDE2K8U_3W1WG6WI": 1
+    "KEY_MQDE2K8U_3W1WG6WI": 1,
+    "KEY_MQDE4IL3_AQHFXHEK": 10
   },
   "usernames": {
     "2076952351": "NamzOfficial",
