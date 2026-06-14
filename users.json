@@ -1,6 +1,8 @@
 {
   "users": {
-    "owners": [],
+    "owners": [
+      "KEY_MQDDQD74_GSR3042E"
+    ],
     "partners": [],
     "resellers": [],
     "members": []
@@ -28,7 +30,8 @@
     "KEY_MQCVN4M2_1EUQVZ7N": 20,
     "KEY_MQCVZ8RO_SL3RW701": 30,
     "KEY_MQDDDP0Z_WR95LTYS": 10,
-    "KEY_MQDDM7RQ_E9NQRGC7": 10
+    "KEY_MQDDM7RQ_E9NQRGC7": 10,
+    "KEY_MQDDQD74_GSR3042E": 20
   },
   "usernames": {
     "2076952351": "NamzOfficial",
